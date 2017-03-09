@@ -1,3 +1,3 @@
 # Calculator
 A simple calculator in swing.
-![Alt text](/Users/shivamarora/Desktop/Screen Shot 2017-03-10 at 12.25.52 AM "Calculator")
+![Alt text](https://drive.google.com/file/d/0B-Y-6nSP1-cSMmIyNXBrU3FDTU0/view?usp=sharing "Calculator")
